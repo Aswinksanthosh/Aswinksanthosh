@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aswin K Santhosh</h1>
 <h3 align="center">A passionate Website developer from India.</h3>
 
-- 🔭 I’m currently working on **__Nothing__**
 
 - 🌱 I’m currently learning **Machine Learningn**
 
