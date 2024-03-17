@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aswinksanthosh
-- 👀 I’m interested in Web Developing
+- 👀 I’m interested in Web Developing, AI and Machine Learning.
 - 🌱 I’m currently learning Python, Java and ML
 - 📫 How to reach me ... aswinksanthosh000@gmail.com
 <!---
