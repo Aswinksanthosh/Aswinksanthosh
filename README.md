@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **AI and ML**
 
-- 💬 Ask me about **Python, Java, full stack web developing.**
+- 💬 Ask me about **Python, Java, PHP full stack web developing.**
 
 - 📫 How to reach me **aswinksanthosh000@gmail.com**
 
