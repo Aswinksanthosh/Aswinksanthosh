@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aswin K Santhosh</h1>
-<h3 align="center">A passionate Website developer from India.</h3>
+<h3 align="center">A passionate Website developer.</h3>
 
 
-- 🌱 I’m currently learning **Machine Learningn**
+- 🌱 I’m currently learning **Word Press**
 
 - 🤝 I’m looking for help with **AI and ML**
 
