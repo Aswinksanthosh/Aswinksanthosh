@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **aswinksanthosh000@gmail.com**
 
+- 📫 See my portfolio **https://aswinksanthosh.github.io/github-portfolio/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aswin-k-santhosh-15557a245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-k-santhosh-15557a245" height="30" width="40" /></a>
