@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer.</h3>
 
 
-- 🌱 I’m currently learning **Word Press**
+- 🌱 I’m currently learning **n8n Workflow**
 
 - 🤝 I’m looking for help with **AI and ML**
 
