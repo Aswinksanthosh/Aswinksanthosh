@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **AI and ML**
 
-- 💬 Ask me about **Python, Java, PHP full stack web developing.**
+- 💬 Ask me about **Python, Java, PHP full stack web developing, data analysis, RapidMiner, n8n Workflow.**
 
 - 📫 How to reach me **aswinksanthosh000@gmail.com**
 
